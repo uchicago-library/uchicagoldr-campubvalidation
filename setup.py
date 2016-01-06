@@ -5,7 +5,7 @@ setup(
     version = '1.0.0',
     author = "Brian Balsamo,Tyler Danstrom",
     author_email = ["balsamo@uchicago.edu","tdanstrom@uchicago.edu"],
-    packages = ['uchicagoldrcampubvalidation'],
+    packages = ['uchicagoldrcampubpostaccession'],
     description = "A set of classes required for the uchicago ldr",
     keywords = ["uchicago","repository","file-level","processing"],
     classifiers = [
